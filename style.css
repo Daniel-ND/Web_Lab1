@@ -1,0 +1,44 @@
+body {
+	background-color: #AFEEEE;
+	overflow: hidden;
+}
+
+th#cap{
+	background-color: #4682B4;
+  	font-style: italic;
+  	font-size: 1.5em;
+  	text-decoration-color: #084ca1;
+  	text-decoration-style: wavy;
+}
+
+th.column{
+	width: 50%;
+	background-color:#87CEEB;
+}
+
+button:hover{
+	background-color: #4682B4;
+}
+
+table#main{
+	width: 98%;
+	height: 98%;
+	border: 1;
+	position: absolute;
+}
+
+img {
+  width: 70%;
+  height: auto;
+}
+fieldset{
+	width: 70%; 
+	margin: auto;
+}
+
+[id^=btn] {
+	border: 2px solid black;
+	text-align: center;	
+	width: 15%;
+	background-color: #aaaaff;
+}
